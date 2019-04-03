@@ -1,0 +1,7 @@
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\bin\Debug\Exersice1-CDevelopment.exe.config
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\bin\Debug\Exersice1-CDevelopment.exe
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\bin\Debug\Exersice1-CDevelopment.pdb
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\obj\Debug\Exersice1-CDevelopment.csprojAssemblyReference.cache
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\obj\Debug\Exersice1-CDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\obj\Debug\Exersice1-CDevelopment.exe
+C:\Users\evelyne.franco\source\repos\Exersice1-CDevelopment\Exersice1-CDevelopment\obj\Debug\Exersice1-CDevelopment.pdb
