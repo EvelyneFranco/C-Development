@@ -1,0 +1,7 @@
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\bin\Debug\Exersice2-DevelopmentC.exe.config
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\bin\Debug\Exersice2-DevelopmentC.exe
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\bin\Debug\Exersice2-DevelopmentC.pdb
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\obj\Debug\Exersice2-DevelopmentC.csprojAssemblyReference.cache
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\obj\Debug\Exersice2-DevelopmentC.csproj.CoreCompileInputs.cache
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\obj\Debug\Exersice2-DevelopmentC.exe
+C:\Users\evelyne.franco\source\repos\Exersice2-DevelopmentC\Exersice2-DevelopmentC\obj\Debug\Exersice2-DevelopmentC.pdb
