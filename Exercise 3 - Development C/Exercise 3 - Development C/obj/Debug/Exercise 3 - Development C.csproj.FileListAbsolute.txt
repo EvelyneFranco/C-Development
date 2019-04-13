@@ -1,0 +1,7 @@
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\obj\Debug\Exercise 3 - Development C.csprojAssemblyReference.cache
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\obj\Debug\Exercise 3 - Development C.csproj.CoreCompileInputs.cache
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\bin\Debug\Exercise 3 - Development C.exe.config
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\bin\Debug\Exercise 3 - Development C.exe
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\bin\Debug\Exercise 3 - Development C.pdb
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\obj\Debug\Exercise 3 - Development C.exe
+C:\Users\evelyne.franco\source\repos\Exercise 3 - Development C\Exercise 3 - Development C\obj\Debug\Exercise 3 - Development C.pdb
