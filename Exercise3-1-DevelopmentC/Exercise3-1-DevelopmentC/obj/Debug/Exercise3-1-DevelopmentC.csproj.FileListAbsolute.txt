@@ -1,0 +1,7 @@
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\bin\Debug\Exercise3-1-DevelopmentC.exe.config
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\bin\Debug\Exercise3-1-DevelopmentC.exe
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\bin\Debug\Exercise3-1-DevelopmentC.pdb
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\obj\Debug\Exercise3-1-DevelopmentC.csprojAssemblyReference.cache
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\obj\Debug\Exercise3-1-DevelopmentC.csproj.CoreCompileInputs.cache
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\obj\Debug\Exercise3-1-DevelopmentC.exe
+C:\Users\evelyne.franco\source\repos\Exercise3-1-DevelopmentC\Exercise3-1-DevelopmentC\obj\Debug\Exercise3-1-DevelopmentC.pdb
