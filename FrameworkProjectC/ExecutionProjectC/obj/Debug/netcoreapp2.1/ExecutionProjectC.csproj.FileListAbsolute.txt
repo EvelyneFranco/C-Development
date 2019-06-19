@@ -1,0 +1,4 @@
+C:\Users\evelyne.franco\source\repos\FrameworkProjectC\ExecutionProjectC\obj\Debug\netcoreapp2.1\ExecutionProjectC.csprojAssemblyReference.cache
+C:\Users\evelyne.franco\source\repos\FrameworkProjectC\ExecutionProjectC\obj\Debug\netcoreapp2.1\ExecutionProjectC.csproj.CoreCompileInputs.cache
+C:\Users\evelyne.franco\source\repos\FrameworkProjectC\ExecutionProjectC\obj\Debug\netcoreapp2.1\ExecutionProjectC.AssemblyInfoInputs.cache
+C:\Users\evelyne.franco\source\repos\FrameworkProjectC\ExecutionProjectC\obj\Debug\netcoreapp2.1\ExecutionProjectC.AssemblyInfo.cs
