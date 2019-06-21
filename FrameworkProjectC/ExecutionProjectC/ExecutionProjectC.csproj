@@ -30,19 +30,4 @@
     <ProjectReference Include="..\FrameworkProjectC\FrameworkProjectC.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="steps.feature.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>steps.feature</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="steps.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>steps.feature.cs</LastGenOutput>
-    </None>
-  </ItemGroup>
-
 </Project>

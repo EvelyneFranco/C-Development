@@ -29,7 +29,7 @@ namespace ExecutionProjectC
         public void eliminar()
         {
             WebDriverWait wait = new WebDriverWait(driver, new TimeSpan(0, 0, 5));
-            IWebElement elimina = driver.FindElement(By.XPath("//input[@aria-label='Eliminar Alienware AW3418DW Monitor Gaming Curvo 34\", LED-Lit, 3440 x 1440, 1 HDMI, 4 USB, 120 Hz']"));
+            IWebElement elimina = driver.FindElement(By.XPath("//input[contains(@aria-label,'Eliminar Monitor Curvo Gamer Alienware AW3418DW 34\" Pantalla LED - Negro')]"));
             wait.Until(driver => elimina.Displayed);
             elimina.Click();
 

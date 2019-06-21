@@ -4,8 +4,8 @@ C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\bin\Deb
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\bin\Debug\SeleniumExtras.PageObjects.dll
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\bin\Debug\WebDriver.dll
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\bin\Debug\WebDriver.xml
-C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.csprojAssemblyReference.cache
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.csproj.CoreCompileInputs.cache
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.csproj.CopyComplete
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.exe
 C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.pdb
+C:\Users\evelyne.franco\source\repos\FrameworkProjectC\FrameworkProjectC\obj\Debug\FrameworkProjectC.csprojAssemblyReference.cache

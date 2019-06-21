@@ -20,7 +20,8 @@ namespace FrameworkProjectC
             this.driver = driver;
         }
 
-        [FindsBy(How = How.XPath, Using = "//img[contains(@alt,'Alienware AW3418DW Monitor Gaming Curvo 34\", LED-Lit, 3440 x 1440, 1 HDMI, 4 USB, 120 Hz')]")]
+        // [FindsBy(How = How.XPath, Using = "//img[contains(@alt,'Alienware AW3418DW Monitor Gaming Curvo 34\", LED-Lit, 3440 x 1440, 1 HDMI, 4 USB, 120 Hz')]")]
+        [FindsBy(How = How.XPath, Using = "//img[contains(@alt,'Monitor Curvo Gamer Alienware AW3418DW 34\" Pantalla LED - Negro')]")]
         public IWebElement selectAlien { get; set; }
 
         public void select()
