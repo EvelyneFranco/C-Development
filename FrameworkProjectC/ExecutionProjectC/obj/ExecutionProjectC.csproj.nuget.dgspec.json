@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\ExecutionProjectC\\ExecutionProjectC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\ExecutionProjectC\\ExecutionProjectC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\ExecutionProjectC\\ExecutionProjectC.csproj",
+        "projectName": "ExecutionProjectC",
+        "projectPath": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\ExecutionProjectC\\ExecutionProjectC.csproj",
+        "packagesPath": "C:\\Users\\evelyne.franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\ExecutionProjectC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\evelyne.franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\FrameworkProjectC\\FrameworkProjectC.csproj": {
+                "projectPath": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\FrameworkProjectC\\FrameworkProjectC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Engine": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[74.0.3729.6, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.220, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "SpecFlow.NUnit.Runners": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\FrameworkProjectC\\FrameworkProjectC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\FrameworkProjectC\\FrameworkProjectC.csproj",
+        "projectName": "FrameworkProjectC",
+        "projectPath": "C:\\Users\\evelyne.franco\\source\\repos\\FrameworkProjectC\\FrameworkProjectC\\FrameworkProjectC.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

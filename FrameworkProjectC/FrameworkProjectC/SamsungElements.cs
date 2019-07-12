@@ -18,7 +18,7 @@ namespace FrameworkProjectC
             this.driver = driver;
         }
 
-        [FindsBy(How = How.XPath, Using = "//span[@class='a-price-whole'][contains(.,'10,980.')]")]
+        [FindsBy(How = How.XPath, Using = "//span[@class='a-price-whole'][contains(.,'11,997.')]")]
         public IWebElement price1 { get; set; }
 
         [FindsBy(How = How.XPath, Using = "(//span[@class='a-price-fraction'][contains(.,'00')])[1]")]
@@ -39,7 +39,7 @@ namespace FrameworkProjectC
         [FindsBy(How = How.XPath, Using = "//input[contains(@value,'Ir')]")]
         public IWebElement ir { get; set; }
 
-        [FindsBy(How = How.XPath, Using = "//span[contains(.,'$10,980.00')]")]
+        [FindsBy(How = How.XPath, Using = "//span[contains(.,'$11,997.00')]")]
         public IWebElement priceCar { get; set; }
 
         [FindsBy(How = How.XPath, Using = "//strong[contains(.,'1')]")]
